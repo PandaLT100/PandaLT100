@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PandaLT100
 - 😅 I like stuff
-- 🌱 I’m currently learning JavaScript, HTML, CSS, and C#
+- 🌱 I’m currently learning WebDev and Python
 - 😄 Pronouns: She/her
 
 <!---
